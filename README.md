@@ -1,3 +1,5 @@
+# CLI приложение
+
 #### Получаем и выводим весь список контактов в виде таблицы (console.table):
 node index.js --action list <br />
 result: https://monosnap.com/file/78XjRl9EBrVHSRrIQpAvzevkqyMh2o
